@@ -26,7 +26,7 @@ We explore a hardware-efficient quantum search algorithm optimized for the Noisy
 ## Getting Started
 
 ### Python (Algorithm Implementation)
-To install dependecies:
+To install dependencies:
 ```bash
 pip install -r requirements.txt
 
